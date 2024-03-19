@@ -10,11 +10,8 @@ const poppins = Poppins({ subsets: ['latin'],
 })
 
 export const metadata: Metadata = {
-  title: 'Evently',
-  description: 'Evently is a platform for event management.',
-  icons: {
-    icon: '/assets/images/logo.svg'
-  }
+  title: 'KnowTify',
+  description: 'LIGMA',
 }
 
 export default function RootLayout({
