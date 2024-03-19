@@ -8,8 +8,8 @@ const poppins = Poppins({ subsets: ['latin'],
 })
 
 export const metadata: Metadata = {
-  title: 'Evently',
-  description: 'Evently is a platform for event management.',
+  title: 'KnowTify',
+  description: 'Nigga',
   icons: {
     icon: '/assets/images/logo.svg'
   }
